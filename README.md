@@ -49,6 +49,15 @@ I prefer building real, usable systems over tutorial clones.<br>
 - Applied clean modular design for extensibility
 
 ---
+### 🔹 Fund Management System – Full-Stack Financial Platform (Ongoing)
+- Designing and building a full-stack web application to manage a shared investment fund with **share-based participation**
+- Supports **Admin and User roles** with secure JWT authentication and role-based access control
+- Implements real-world **financial logic** including fund pooling, loan distribution, interest calculation, penalties, exits, and cycle-based settlements
+- Backend built with **FastAPI, SQLAlchemy, PostgreSQL**, following clean service-oriented architecture
+- Frontend built using **React (Vite) and Tailwind CSS** with protected routes and dashboards
+- Includes complete **audit trail**, transaction ledger, and **CSV exports** for reporting and analysis
+- Focused on correctness, transparency, and production-style system design
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kale-889437205/)
