@@ -79,10 +79,3 @@ I prefer building real, usable systems over tutorial clones.<br>
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek10946&theme=holi&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek10946&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10946&theme=holi&hide_border=false&layout=compact)
-
-<!-- Proudly created with GPRM -->
